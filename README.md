@@ -2,7 +2,7 @@
 
 Merhaba,
 
-2. hafta odevini bu zamana kadar ogrendiklerinizle yapmanizi istiyorum. Odevi 24 Ekim Cuma gunu saat 23:59'a kadar gondermeniz gerekiyor.
+2. hafta odevini
 Odevde istedigim sey ise size repoda yer alan `grades.json` dosyasini okuyup, puan ortalamasini bulmaniz ve ortalama ustunde kalanlar ile altinda kalanlari ayirip ekrana basmaniz.
 
 ```
